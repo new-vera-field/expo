@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Remove dev-only stack trace view from default error boundary. ([#36409](https://github.com/expo/expo/pull/36409) by [@EvanBacon](https://github.com/EvanBacon))
+
 ## 5.0.2-preview.6 — 2025-04-25
 
 ### 💡 Others
