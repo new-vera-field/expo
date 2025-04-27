@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Remove absolute paths from server components output. ([#35276](https://github.com/expo/expo/pull/35276) by [@EvanBacon](https://github.com/EvanBacon))
+
 ### 💡 Others
 
 ## 0.24.5 — 2025-04-25
