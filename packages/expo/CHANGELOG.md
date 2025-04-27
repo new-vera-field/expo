@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Move virtual RSC client boundary entry point to `expo` from `@expo/metro-runtime`. ([#36408](https://github.com/expo/expo/pull/36408) by [@EvanBacon](https://github.com/EvanBacon))
+
 ## 53.0.0-preview.12 — 2025-04-25
 
 ### 💡 Others
