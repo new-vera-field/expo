@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Allow `$schema` in `app.json` ([#35770](https://github.com/expo/expo/pull/35770) by [@typeofweb](https://github.com/typeofweb))
+
 ### 💡 Others
 
 ## 11.0.5 — 2025-04-25
