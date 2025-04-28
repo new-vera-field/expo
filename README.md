@@ -103,7 +103,7 @@ If you have questions about Expo and want answers, then check out our [Frequentl
 
 If you still have questions you can ask them on our [forums](https://forums.expo.io) or on Twitter [@Expo](https://twitter.com/expo).
 
-## 💙 The Team
+## 💙 The Teamno
 
 Curious about who makes Expo? Here are our [team members](https://expo.io/about)!
 
